@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on landing page [**umkm**](https://ilhamsupr.github.io/nasi-goreng-saja/)
-
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc4a2RmNm54ampyajh0NXFnNDdycTdkMnIwaWx4aHp4azcwMGJrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pynZagVcYxVUk/giphy.gif)
